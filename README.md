@@ -3,3 +3,5 @@ An artist discovery system that allows users to search, explore, and favorite vi
 [Access the App on Google Cloud](https://test-317810304200.us-west1.run.app/)
 
 **Skills Used:** TypeScript, HTML, CSS, Angular, JavaScript, Node.js, Python, Flask, Kotlin, Jetpack Compose, RESTful APIs, MongoDB Atlas, Google Cloud Platform
+
+For code review, reach out to akoni@usc.edu
